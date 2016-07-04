@@ -1,0 +1,13 @@
+<resources>
+    <string name="main_title">Information</string>
+    <string name="booking">Booking Form</string>
+    <string name="price">45.0 / ticket</string>
+    <string name="traveller">Traveller</string>
+    <string name="four">4</string>
+    <string name="trip">Total trip cost</string>
+    <string name="trip_cost">180.0 $</string>
+    <string name="travel_inf">Traveler(s) Information</string>
+    <string name="btn_traveler">Edit Traveler</string>
+    <string name="btn_continue">Continue</string>
+    <string name="btn_add_traveler">Add Traveler</string>
+</resources>

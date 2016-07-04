@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFDCDDE3</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="titleInformation">#FF76D2F6</color>
+    <color name="bookingColor">#FF18CCF9</color>
+</resources>
